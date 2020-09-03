@@ -395,17 +395,17 @@ li {
 
  #slide1 {
     background: url('../images/m112.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide2 {
     background: url('../images/m212.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide3 {
     background: url('../images/m312.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 }
 
@@ -417,17 +417,17 @@ li {
   }
   #slide1 {
     background: url('../images/m192.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide2 {
     background: url('../images/m292.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide3 {
     background: url('../images/m392.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 }
 
@@ -439,17 +439,17 @@ li {
   }
    #slide1 {
     background: url('../images/m176.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide2 {
     background: url('../images/m276.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 
   #slide3 {
     background: url('../images/m376.jpg') center no-repeat;
-    border-radius: 30px;
+    border-radius: 40px;
   }
 }
 
